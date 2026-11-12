@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there! ✌️
 
-<!--
-**tphan356/tphan356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Patrick**, a Data Science graduate from UC Berkeley, currently pursuing my Master's in Data Science at Seattle University.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into real-world applications, especially through **AI, Machine Learning, and Data Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning new technologies, experimenting with different approaches, and building things that solve real problems.
+
+My main tech stack includes **Python, SQL, Pandas, Scikit-learn, TensorFlow, and FastAPI**.
+
+Some of my favorite projects involve building **AI agents, predictive models, and data-driven applications**.
+
+**Fun Facts:**
+- 🎓 UC Berkeley alum
+- 🤖 Interested in AI and emerging technologies
+- 🚀 Always looking for something new to build
